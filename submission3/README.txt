@@ -15,7 +15,7 @@ Jurafsky
 Pearson
 
 Link to the book:
-https://amazon.com/...
+https://drive.google.com/file/d/1MZpR_uB67ax0VSSzds57HAB2wBzPyXBK/view?usp=sharing
 
 Link to the book chapter:
 https://books.google.com/books...
